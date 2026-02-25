@@ -1,0 +1,119 @@
+Symphony Network Copyleft License
+Version 1.0, February 25, 2026
+
+Copyright (c) 2026 umm-dev
+
+Preamble
+
+This License is a free, copyleft license for software and related works.
+It allows commercial and non-commercial use, modification, and redistribution.
+If you distribute modified versions, or run modified versions for remote users
+over a network, you must provide Corresponding Source under this License.
+
+1. Definitions
+
+"License" means this Symphony Network Copyleft License v1.0.
+"Licensor" means the copyright owner licensing the Work: umm-dev.
+"Work" means the software licensed under this License.
+"Covered Work" means the unmodified Work or a work based on the Work.
+"Modify" means to adapt, alter, translate, or create derivative works.
+"Convey" means to transfer a copy to another party.
+"Corresponding Source" means the preferred form for making modifications,
+including build, install, and interface definition files required to generate,
+install, and run the object code, excluding System Libraries.
+"Network Use" means making functionality of a modified Covered Work available
+to users who interact with it remotely through a network.
+"System Libraries" means components that are part of the normal form of
+packaging a Major Component of an operating system, but are not part of the
+Covered Work itself.
+
+2. Copyright Grant
+
+Subject to this License, each Licensor grants you a worldwide, royalty-free,
+non-exclusive copyright license to run, copy, modify, and Convey the Work.
+
+3. Patent Grant
+
+Each contributor grants you a worldwide, royalty-free, non-exclusive patent
+license under patent claims they can license, to make, use, sell, offer for
+sale, import, and otherwise run, modify, and Convey their contributions as
+part of a Covered Work.
+
+4. Conditions for Conveying Covered Works
+
+You may Convey source or object code of a Covered Work only if you:
+
+a) provide a copy of this License with the Covered Work;
+b) keep all copyright and license notices intact;
+c) state significant changes made by you and their date;
+d) license the entire Covered Work under this License; and
+e) provide Corresponding Source in one of the following ways:
+   i) with the same distribution channel, or
+   ii) through a durable written offer valid for at least three years.
+
+5. Network Copyleft Condition
+
+If you Modify the Work and make the modified Covered Work available for Network
+Use, you must prominently offer all remote users an opportunity to receive the
+Corresponding Source of that modified version at no charge beyond reasonable
+transfer cost, under this License.
+
+6. Commercial Use
+
+Commercial use is permitted, including internal business use, commercial
+distribution, and hosted services, provided all applicable conditions of this
+License are met.
+
+7. Combined and Independent Works
+
+Mere aggregation of a Covered Work with independent works on the same medium
+does not bring those independent works under this License.
+Independent programs that communicate through standard protocols remain
+independent unless they form a derivative or combined work of the Covered Work.
+
+8. No Trademark License
+
+This License does not grant rights to use trade names, trademarks, service
+marks, or logos of the Licensor, except for reasonable and customary use in
+describing origin of the Work and reproducing required notices.
+See TRADEMARKS.md for additional policy.
+
+9. Disclaimer of Warranty
+
+THE COVERED WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. YOU ASSUME THE ENTIRE RISK AS
+TO THE QUALITY AND PERFORMANCE OF THE COVERED WORK.
+
+10. Limitation of Liability
+
+IN NO EVENT SHALL ANY LICENSOR OR CONTRIBUTOR BE LIABLE FOR ANY DAMAGES,
+INCLUDING ANY GENERAL, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES ARISING
+OUT OF USE OR INABILITY TO USE THE COVERED WORK, EVEN IF ADVISED OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+11. Termination and Reinstatement
+
+Your rights under this License terminate automatically if you violate it.
+If you cure the violation within 30 days after becoming aware of it, your
+license is reinstated provisionally unless and until explicitly terminated.
+Final reinstatement occurs if the Licensor does not notify you of the
+violation by reasonable means within 60 days after cure.
+
+12. Patent Retaliation
+
+If you initiate patent litigation alleging a Covered Work infringes a patent,
+any patent licenses granted to you under this License terminate as of filing.
+
+13. Contact
+
+For legal notices or compliance questions regarding this License, contact:
+sheireaxel@gmail.com
+
+14. Versioning
+
+This is Symphony Network Copyleft License v1.0.
+Future versions, if published by the Licensor, are not automatically applicable
+unless a Covered Work states "v1.0 or later" or explicitly references another
+version.
+
